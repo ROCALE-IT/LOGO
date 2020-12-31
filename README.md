@@ -1,2 +1,2 @@
 # LOGO
-ROCALE-IT's logo
+ROCALE's logo
